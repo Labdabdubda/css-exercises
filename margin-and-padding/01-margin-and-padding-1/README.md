@@ -1,14 +1,14 @@
 # Margin and Padding practice
 
-For this first exercise, simply edit the `style.css` file so that the divs look like the image below. Only edit the CSS where instructed in the file.  You should only have to change the values of the margin and padding for this exercise. You should not have to add or remove properties in the CSS, or touch the HTML.
+Для этого первого упражнения просто отредактируйте файл `style.css`, чтобы DOV выглядели как изображение ниже.Только отредактируйте CSS, где указано в файле.Вы должны только изменить значения маржи и прокладки для этого упражнения.Вам не нужно добавлять или удалять свойства в CSS или прикасаться к HTML.
 
-![outcome](./desired-outcome.png)
+! [Результат] (./ Desired-outcome.png)
 
-### Self-check 
-Use this section to check your work. On _these_ projects, your goal isn't to attain 100% pixel perfection, but to use the tools you've learned to get relatively close to the desired output.
+### Самоуверение
+Используйте этот раздел, чтобы проверить вашу работу.В проектах _Thes_ ваша цель не на достижение 100% пиксельного совершенства, а использовать инструменты, которые вы научились, чтобы быть относительно близко к желаемому результату.
 
-- Div One and Div Three have 32px between their text and border.
-- Div One has 12px between it and any other element on the page.
-- There is a 48px gap between Div Two and Div Three.
-- Div Three is aligned to the right.
-- Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
+- Div One and Div Three have 32px between their text and the border.
+- Div One имеет 12px между ним и любым другим элементом на странице.
+- Между Div Two и Div Three есть разрыв в 48 %.
+- Div Three выровнен вправо.
+- Выравнивание Div Three достигается с использованием «маржи» (а не Float, Flexbox и т. Д.).
